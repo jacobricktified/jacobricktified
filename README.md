@@ -8,5 +8,5 @@
 - 💬 Ask me about ..
 - 📫 How to reach me: mbucojacob@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Scientist caught a "flying saucer" in the middle of nowhere and this is the code they found.
+- ⚡ Fun fact ..
 

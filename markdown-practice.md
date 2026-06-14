@@ -1,42 +1,43 @@
+# Exercise 1 — Headings
 ## My Learning Goals
 
 ### This Semester
-
+# Exercise 2 — Text formatting
 I want to become a **better programmer**, improve my *problem-solving skills*, and learn how to use `Git` effectively.
 
-## Links
+# Exercise 3 — Links
 
 - My GitHub Profile: https://github.com/your-username
 - Useful Website: https://www.freecodecamp.org
 
-## Things I Want to Learn
+# Exercise 4 — Lists: Things I want to learn
 
 - Data Structures and Algorithms
 - Full-Stack Web Development
 - DevOps and Cloud Computing
 
-## Steps to Make a Git Commit
+# Exercise 4 — Lists: Steps to Make a Git Commit
 
 1. Check the status with `git status`
 2. Stage changes with `git add .`
 3. Commit changes with `git commit -m "Your message"`
 4. Push changes with `git push`
 
-## Tools Table
+# Exercise 5 — Table: Tools I want to use while learning
 
 | Tool | Purpose | Link |
 |------|---------|------|
 | Git | Version Control | https://git-scm.com |
 | VS Code | Code Editor | https://code.visualstudio.com |
 
-## Learning Tasks
+# Exercise 6 — Task list: list of things in my learning goal
 
 - [x] Learn basic Git commands
 - [x] Create a GitHub account
 - [ ] Complete a web development project
 - [ ] Learn Docker basics
 
-## Code Example
+# Exercise 7 — Code block: code block in Javascript
 
 ```javascript
 function greet(name) {
@@ -46,13 +47,13 @@ function greet(name) {
 console.log(greet("Jacob"));
 ```
 
-## Advice
+# Exercise 8 — Blockquote: A piece of advice
 
 > Consistency beats intensity. Small progress every day leads to big results over time.
 
 ---
 
-## About Me
+# Bonus — Put it all together: About me
 
 ### Jacob Mbuco
 
